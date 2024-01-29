@@ -9,7 +9,10 @@
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn
 
 - Databases:
-PostgreSQL
+PostgreSQL, MySQL
+
+- BI-инструменты:
+DataLens, Power BI
 
 ### Касаемо софтов:
 - Общительный, люблю новые знакомства 👽
